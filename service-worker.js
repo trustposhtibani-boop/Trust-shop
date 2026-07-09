@@ -1,4 +1,4 @@
-const CACHE_NAME = 'trust-shop-cache-v3';
+const CACHE_NAME = 'trust-shop-cache-v4';
 const urlsToCache = [
   './',
   './index.html',

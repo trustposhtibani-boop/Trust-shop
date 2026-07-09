@@ -1,7 +1,7 @@
 const CACHE_NAME = 'trust-shop-cache-v4';
 const urlsToCache = [
   './',
-  './index.html',
+  './index.html?v=2',
   './manifest.json',
   './icons/icon-192.png',
   './icons/icon-512.png'
